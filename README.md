@@ -1,6 +1,6 @@
 # Sport Image Classifier Using Convolutional Neural Networks (CNN)
 
-This project implements a Convolutional Neural Network (CNN) to classify images of various sports. The classifier is designed to recognize and categorize different sports based on input images, making it useful for automated sports content tagging, image organization, or integration into larger sports analytics systems.
+This project implements a Convolutional Neural Network (CNN) to classify images of various sports. The classifier is designed to recognize and categorize different sports based on input images, making it useful for automated sports content tagging, image organization, or integration into larger sports analytics systems. Thsi project includes excessive Hyperpaarameter testing and tuning for various parameters.
 
 ## Table of Contents
 
