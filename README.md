@@ -60,6 +60,11 @@ The model was trained using the following parameters:
 - **Epochs**: [Number of epochs]
 - **Batch Size**: [Batch size]
 
+## Results
+
+<img width="76" alt="Final Predictions" src="https://github.com/user-attachments/assets/16ab4033-9500-4cd7-be4e-d5694d7491f9" />
+
+
 ## Usage
 
 To use the model, follow these steps:
